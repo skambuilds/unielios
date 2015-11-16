@@ -5,7 +5,7 @@
         id        = "com.moodle.moodlemobile"
         versionCode = "2006"
         version   = "2.5">
-    <name>Unielios</name>
+    <name>Unielios iOS</name>
 
     <description>
         Official Elios Project Mobile App
