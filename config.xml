@@ -4,7 +4,7 @@
         xmlns:android = "http://schemas.android.com/apk/res/android"
         id        = "com.moodle.moodlemobile"
         versionCode = "2006"
-        version   = "2.5">
+        version   = "1.0">
     <name>Unielios</name>
 
     <description>
