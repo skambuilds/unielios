@@ -2,13 +2,13 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.moodle.moodlemobile"
+        id        = "com.moodle.progettoelios" //modificato
         versionCode = "2006"
         version   = "2.5">
-    <name>Moodle Mobile</name>
+    <name>Unielios</name> //modificato
 
     <description>
-        Moodle Mobile official app
+        Official ELIOS project app
     </description>
 
     <author href="http://moodle.com" email="mobile@moodle.com">
